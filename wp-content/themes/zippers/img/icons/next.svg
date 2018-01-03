@@ -1,0 +1,19 @@
+
+<svg width="30px" height="32px" viewBox="34 -2 30 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="8 23.7789321 8 6 19.6674242 14.889466"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="11.6674242" height="17.7789321" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="3.55271368e-15" width="30" height="30" rx="5"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Forward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(49.000000, 15.000000) rotate(-180.000000) translate(-49.000000, -15.000000) translate(34.000000, 0.000000)">
+        <use id="Triangle-11-Copy" stroke="#EF5222" mask="url(#mask-2)" stroke-width="2.56" fill="#EF5222" transform="translate(13.833712, 14.889466) rotate(-180.000000) translate(-13.833712, -14.889466) " xlink:href="#path-1"></use>
+        <use id="Rectangle-347" stroke="#EEEEEE" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+    </g>
+</svg>

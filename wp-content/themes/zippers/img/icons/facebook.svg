@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="11" cy="11" r="11"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="22" height="22" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect x="8" y="5" width="6" height="12" id="rect-3"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-982.000000, -11.000000)">
+            <g id="Group-6" transform="translate(954.000000, 11.000000)">
+                <g id="Group" transform="translate(28.000000, 0.000000)">
+                    <g>
+                        <use id="Oval-2-Copy" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                        <g id="Bitmap">
+                            <image x="8" y="5" width="6" height="12" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAABVCAYAAADUgM1MAAAAAXNSR0IArs4c6QAAA3VJREFUaAXtm09IFUEcx7+/fQ8VS0jKyFNeopuH6CaUEoQEdUsNonMvIqhLBAXvHuSh/AMREXQIDbpUIJS9FKJOXpLqEoQd8mCgZtnTt79+q4jLvl3fzPR22YEdWHbn328++535zczb3UdIIgw/bwW1dIDQDkYrmFpAbgPYceC4ZTn/BlV+gXPLcHlZ0pbgOouorCziyqklio1xqNQDh/oB6hW4g+btVM7mzSuH1CwWHezvGQDRdQHrDClhlFQ/yOHJw6D8A4HrMiLZoVJ9IIdKp+E4T6Sd5h3aMs5yjGtuVRwtnUOOnkk0FkCvmf+DHJnsEk99KM6R22KO42wOeXtiF5B7LE7SGAeY36b5mGxpuiUKdviNxXVtpuS9V3sF6HJcUEG7ZpC5/AVRUbo7mWAGCRpIBm+zFX3IwTd7RMWjSULqO06Tc0RWFf2b898V8zTA9+WYkY2F68+qui6Xv+tDAoeqDCkncAXMBRS6BVA96CvCaFM3HyjJuKkL6FnQhySYqC89ywtYWxkMYCtF9SGVzIYVopeygf0bllMrLUFIzNWCicpPEJLLURC10hOErIUSnZ9BRmujl5MpqadXdOlMyWht9HKsUJIwUroKcu7o3ZtBaUZJFnA5NAO5L8w2C5rtbBQndMtmWQ7tMJv+7l7nufRD8nrqIctYePcj5UryFxSLbrohmWY9N0s5JFsACfdj+pV0nLQryat4Pf817Up+xnhfJd2QjI2uTjckbU4/HmQef1YfoTk/4UWUgps/L28abiiV9Rdifi9PMdR3W2trH7aq53Gt96dEvEMtjL6dVysYKEU0h8Lx8UCqUlR/Mncpvld9Ecj6kORaAMnyCDXhYKCkFd1tg5IJd7XXnH53Z94d3k36SnLmOKFS6itJNijp2rDiWKFktiyG+o3BZG7HLsgG75aHjOGdEl+q/jxpx4qTzZOhY0a/u0PNxJuoD2nFZC4fp8WrW7V1AyUzx6mWUVL0laRsMq+XkjaMSTt+0towJrOfD6F+YzIFsQ0rjg1j0o6dOT+Vtwhj8r+apfARVP9U/WXxUve0vEXox8ynfYB7UpDuCvC3+qNtW6yfEwxPdcrXKmdkxMqx8fV00PY4Lh7r225a/SpoSL3mTiUHp9rRyPL3FwEGTsgwbpJzyiD9N1Aca8CBtk4ZErtR6Cn5s1Sv/wHRI79lq1rIqQAAAABJRU5ErkJggg=="></image>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#rect-3"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
